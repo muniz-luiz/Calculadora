@@ -1,0 +1,8 @@
+C:\Users\EDUARDO\source\repos\CaculadoraBasica\CaculadoraBasica\bin\Debug\CaculadoraBasica.exe.config
+C:\Users\EDUARDO\source\repos\CaculadoraBasica\CaculadoraBasica\bin\Debug\CaculadoraBasica.exe
+C:\Users\EDUARDO\source\repos\CaculadoraBasica\CaculadoraBasica\bin\Debug\CaculadoraBasica.pdb
+C:\Users\EDUARDO\source\repos\CaculadoraBasica\CaculadoraBasica\obj\Debug\CaculadoraBasica.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\source\repos\CaculadoraBasica\CaculadoraBasica\obj\Debug\CaculadoraBasica.csproj.SuggestedBindingRedirects.cache
+C:\Users\EDUARDO\source\repos\CaculadoraBasica\CaculadoraBasica\obj\Debug\CaculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\source\repos\CaculadoraBasica\CaculadoraBasica\obj\Debug\CaculadoraBasica.exe
+C:\Users\EDUARDO\source\repos\CaculadoraBasica\CaculadoraBasica\obj\Debug\CaculadoraBasica.pdb
